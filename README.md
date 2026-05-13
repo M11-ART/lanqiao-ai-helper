@@ -51,6 +51,14 @@ lanqiao-ai-helper/
 ├── lanqiao-ai-ai        # AI服务模块（小米MiMo模型集成）
 └── lanqiao-ai-web       # Web启动模块（接口、配置、启动类）
 
+## 📸 项目演示
+### 接口运行演示
+<img width="1094" height="74" alt="屏幕截图 2026-05-07 193533" src="https://github.com/user-attachments/assets/c0ac5b68-dc9d-43a9-887b-0624c7e4fa35" />
+
+### 项目架构
+<img width="518" height="589" alt="屏幕截图 2026-05-07 193422" src="https://github.com/user-attachments/assets/bc85f802-b15b-4552-be7e-e8e3876cb40a" />
+
+
 ## 关于小米MiMo集成
 本项目专为小米MiMo-V2.5大模型设计开发，核心应用：
 1. 100万超长上下文：完整处理题目、代码、测试用例
